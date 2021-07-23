@@ -1,0 +1,12 @@
+E:\C#\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.exe
+E:\C#\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.deps.json
+E:\C#\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.runtimeconfig.json
+E:\C#\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.runtimeconfig.dev.json
+E:\C#\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.dll
+E:\C#\UserRegistrationRegex\bin\Debug\netcoreapp3.1\UserRegistrationRegex.pdb
+E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.AssemblyInfoInputs.cache
+E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.AssemblyInfo.cs
+E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.csproj.CoreCompileInputs.cache
+E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.dll
+E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.pdb
+E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.genruntimeconfig.cache
