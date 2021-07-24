@@ -16,9 +16,12 @@ namespace UserRegistrationRegex
             //Console.WriteLine("Enter your Email ID");
             //string eMail = Console.ReadLine();
             //Console.WriteLine(EmailCheck(eMail));
-            Console.WriteLine("Enter your Phone number to check");
-            string number = Console.ReadLine();
-            Console.WriteLine(PhoneNumberCheck(number));
+            //Console.WriteLine("Enter your Phone number to check");
+            //string number = Console.ReadLine();
+            //Console.WriteLine(PhoneNumberCheck(number));
+            Console.WriteLine("Enter the password to check");
+            string password = Console.ReadLine();
+            Console.WriteLine(PasswordCheck(password));
         }
         public static bool NameCheck(string name)
         {
@@ -34,6 +37,11 @@ namespace UserRegistrationRegex
         {
             string pattern = "^[9][1][ ][6-9][0-9]{9}$";
             return Regex.IsMatch(number, pattern);
+        }
+        public static bool PasswordCheck(string password)
+        {
+            string pattern = "^[A-Za-z0-9]{8,}$";
+            return Regex.IsMatch(password, pattern);
         }
     }
 }
