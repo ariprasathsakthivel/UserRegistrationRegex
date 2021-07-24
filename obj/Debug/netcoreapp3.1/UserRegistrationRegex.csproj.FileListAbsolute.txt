@@ -10,3 +10,4 @@ E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.csproj
 E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.dll
 E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.pdb
 E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.genruntimeconfig.cache
+E:\C#\UserRegistrationRegex\obj\Debug\netcoreapp3.1\UserRegistrationRegex.csproj.AssemblyReference.cache
