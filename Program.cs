@@ -40,7 +40,7 @@ namespace UserRegistrationRegex
         }
         public static bool PasswordCheck(string password)
         {
-            string pattern = "^[A-Z][A-Za-z0-9]{7,}$";
+            string pattern = "^.{7,}[0-9]*$";
             return Regex.IsMatch(password, pattern);
         }
     }
