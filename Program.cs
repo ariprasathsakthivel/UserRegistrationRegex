@@ -7,11 +7,14 @@ namespace UserRegistrationRegex
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter your name to check");
-            string name = Console.ReadLine();
-            Console.WriteLine(PatternCheck(name));
+            Console.WriteLine("Enter your First name to check");
+            string firstName = Console.ReadLine();
+            Console.WriteLine(NameCheck(firstName));
+            Console.WriteLine("Enter your First name to check");
+            string lastName = Console.ReadLine();
+            Console.WriteLine(NameCheck(lastName));
         }
-        public static bool PatternCheck(string name)
+        public static bool NameCheck(string name)
         {
             string pattern = "^[A-Z]{1}[a-z]{2,}$";
             return Regex.IsMatch(name, pattern);
